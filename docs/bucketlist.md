@@ -3,4 +3,5 @@
 - [X] Leave a religion.
 - [X] Enter the world.
 - [ ] Go deep into the world.
+- [ ] Leave the world.
 - [ ] ???
