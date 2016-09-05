@@ -1,6 +1,6 @@
--[X] Join a religion.
--[X] Go deep into religion.
--[X] Leave a religion.
--[X] Enter the world.
--[ ] Go deep into the world.
--[ ] ???
+- [X] Join a religion.
+- [X] Go deep into religion.
+- [X] Leave a religion.
+- [X] Enter the world.
+- [ ] Go deep into the world.
+- [ ] ???
