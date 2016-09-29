@@ -1,7 +1,30 @@
-## Booklist
+# Booklist
 
+## Red
 Biblia Hebraica Stuttgartensia
 Gödel, Escher, Bach: An Eternal Golden Braid - Douglas R. Hofstadter
 The Secret Teachings of All Ages - Manly P. Hall
 The Tau of Wu - The RZA
 The Wu-Tang Manual - The RZA
+
+## Reed
+Structured Programming
+Knuth the art of computer programming
+Design Patterns 1995 (23 patterns)
+the structure and interpretation of computer programs - sussman free pdf
+Domain Driven Design
+Patterns of Enterprise Architecture - Martin Fowler
+Tribal Leadership - the 5 stages of tribal culture
+Narcotic plants - william emboden
+The Mind in the Cave
+The Shamans of Prehistory
+The Doors of Perceptions
+The Nag Hammadi Library
+Not in His Image - Lamlash
+Fingerprints of the Gods
+Writing Efficient Programs
+Goethe's Faust
+Shakespeare the merchant of venice
+
+
+I was never interested in reading Shakespeare until I read in the Secret Teachings that the author Shakespeare's plays may actually be Sir Francis Scott Bacon - apparently a very wise man.
