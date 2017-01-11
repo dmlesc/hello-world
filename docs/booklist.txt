@@ -28,6 +28,10 @@ Shakespeare the merchant of venice
 PIHKAL
 TIHKAL
 Structure and Interpretation of Computer Programs
+Fractals: Form, Chance and Dimension - Benoit B. Mandelbrot
+The Fractal Geometry of Nature - Benoit B. Mandelbrot
+Nine Chains to the Moon - R. Buckminster Fuller
+
 
 
 
