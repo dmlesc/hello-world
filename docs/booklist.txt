@@ -25,6 +25,10 @@ Fingerprints of the Gods
 Writing Efficient Programs
 Goethe's Faust
 Shakespeare the merchant of venice
+PIHKAL
+TIHKAL
+Structure and Interpretation of Computer Programs
+
 
 
 I was never interested in reading Shakespeare until I read in the Secret Teachings that the author Shakespeare's plays may actually be Sir Francis Scott Bacon - apparently a very wise man.
