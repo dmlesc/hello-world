@@ -218,3 +218,18 @@ That's keeping it - *WRONG*
 Take my weapon, step into a whole new realm
 And step back, as I take up the helm
 
+neither doth the beard maketh the man, nor the man the beard
+the man growteth the beard and the woman taketh away
+
+serverless architecture
+   the less you know the more you pay
+   the more you abstract the less you understand
+   the less you control the more you rely on (depend on)
+   the less you need to understand the faster you go
+
+mastermore architecture
+   the more you know the less you pay
+   the less you abstract the more you understand
+   the more you control the less you rely on
+   the less need you have to go fast the more understanding you attain
+   
