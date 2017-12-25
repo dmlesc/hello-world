@@ -31,6 +31,11 @@ Structure and Interpretation of Computer Programs
 Fractals: Form, Chance and Dimension - Benoit B. Mandelbrot
 The Fractal Geometry of Nature - Benoit B. Mandelbrot
 Nine Chains to the Moon - R. Buckminster Fuller
+Predictably Irrational
+The Book of PF
+The Practice of Network Security Monitoring
+Practical Packet Analysis
+Data and Goliath: The Hidden Battles to Collect Your Data and Control Your World
 
 
 
