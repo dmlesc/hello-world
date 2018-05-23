@@ -1,11 +1,11 @@
 Skinny
 why don't you talk?
-Lurf
+Lerf
 Spy
 Silent Assassin
 Stock Clerk
 (Elder) Lurch
-alemão
+alemao
 Library Page
 Reference Desk Specialist
 Custodial Building Supervisor
@@ -25,4 +25,6 @@ Bittah Prophet
 weirdo with a beardo
 proficient clicker
 Bastard Swordsman (ret.)
-Salem the Silensa
+Salem the Psylensa
+Associate Site Reliability Engineer
+Site Reliability Engineer
