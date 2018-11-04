@@ -1,0 +1,33 @@
+==========================================
+ Do what's right, rather than what's Easy 
+==========================================
+
+What makes it Hard to do something Right?
+   -takes a long time
+      -get sidetracked by other things
+   -have to collaborate with people
+      -"If you want something done right, do it yourself."
+      https://www.youtube.com/watch?v=fk_t2tG2DL4
+   -have to tell the truth
+      -Integrity
+
+Does it have to be Hard to do the Right thing?
+   -I disagree with the premise that doing the Right thing has to be Hard.
+   -KISS
+      -baby steps
+      https://www.youtube.com/watch?v=ncFCdCjBqcE
+   -Be humble and seek feedback from others
+   -Be honest
+
+function accomplish_a_task(emp, task) {
+   if (!easyToDoWhatsRight(emp)) {
+      refactorMindset(emp);
+      reevaluate(task);
+      accomplish_a_task(emp, task);
+   }
+   else {
+      letPassionAndBeliefTakeOver(emp);  // Value 3
+      emp.funLevel++;                    // Value 7
+      emp.happiness++;
+   }
+}
