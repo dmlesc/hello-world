@@ -417,3 +417,12 @@ in the clouds or on the premises.
 There is no such thing as a schema free database that can deal very well with textual
 search. We need to index according to how we are going to search, instead of trying
 to construct searches according to how things are stored.
+
+nothing is as it seems
+
+Atom: Clash of Titans
+  Atoms are willfully obscure. We can never fully know an atoms position and speed
+  simultaneously. The atomic world just refuses to allow that to happen. It was
+  completely mind boggling. But once they accepted it, Heisenberg and Bohr found
+  the boost of confidence to be even more bold. They realized uncertainty forced
+  them to put paradox right at the very heart of the Atom.
